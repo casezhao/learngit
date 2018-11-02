@@ -35,5 +35,6 @@ public class p1{
 		int[] l1={1,3,4,5};
 		int[] l2={2,3,4};
 		System.out.println(getmedia(l1,l2));
+		System.out.println('editbymac');
 	}
 }
